@@ -128,4 +128,4 @@ And start to play around with creating a new Vehicle as Truck or Car or Motorbik
 
 ## Video
 
-[Watch the demo]()
+[Watch the demo](https://app.screencastify.com/v3/watch/rWX7SYr4ahaT4v7zjs27)
