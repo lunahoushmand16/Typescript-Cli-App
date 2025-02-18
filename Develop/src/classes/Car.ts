@@ -27,7 +27,6 @@ class Car extends Vehicle {
   ) {
     // Call the constructor of the parent class, Vehicle
     super();
-
     // Initialize properties of the Car class
     this.vin = vin;
     this.color = color;
