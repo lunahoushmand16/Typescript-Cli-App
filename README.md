@@ -36,11 +36,11 @@ in this App the user to either create a new vehicle or select an existing vehicl
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/luna.houshmand16/TypeScript-Command-line-Application
+   git clone https://github.com/lunahoushmand16/Typescript-Cli-App
    ```
 2. Navigate to the project folder:
    ```sh
-   cd TypeScript-Command-line-Application
+   cd Typescript-Cli-App
    ```
 3. Install dependencies:
    ```sh
@@ -48,7 +48,7 @@ in this App the user to either create a new vehicle or select an existing vehicl
    ```
 4. Run the application:
    ```sh
-   node index.js
+   npm run start
    ```
 
 ## Usage
@@ -123,7 +123,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Tests
 
-Run the application with node index.js or Use npm run start to compile & run your CLI app in one step
+Install dependencies and Run the application with node index.js or Use npm run start to run the CLI app in one step
 And start to play around with creating a new Vehicle as Truck or Car or Motorbike or choose exsisting Vehicle for other actions.
 
 ## Video
