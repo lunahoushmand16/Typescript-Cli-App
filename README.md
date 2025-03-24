@@ -100,7 +100,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## Badges
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/lunahoushmand16/TypeScript-Command-line-Application)
-![GitHub contributors](https://img.shields.io/githubcontributorslunahoushmand16TypeScript-Command-line-Application)
+![GitHub contributors](https://img.shields.io/githu/bcontributorslunahoushmand16TypeScript-Command-line-Application)
 ![GitHub stars](https://img.shields.io/github/stars/lunahoushmand16/TypeScript-Command-line-Application)
 
 ## Features
